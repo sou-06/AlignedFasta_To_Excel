@@ -6,4 +6,4 @@ This script convert aligned fasta file to excel sheet.
 
 Upload your aligned fasta file after jump to Google Colab. 
 
-Change the input_filename in the first cell to the name of the file you uploaded.
+Change the input_filename in the first cell to your uploaded file.
